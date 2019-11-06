@@ -1,0 +1,6 @@
+hungury("Are you hungry")
+if(hungury=='yes')
+	print("eat samosa")
+	print("pizza")
+else
+	print("do your homework")
