@@ -2,5 +2,6 @@ hungury("Are you hungry")
 if(hungury=='yes')
 	print("eat samosa")
 	print("pizza")
+	print("burger")
 else
 	print("do your homework")
