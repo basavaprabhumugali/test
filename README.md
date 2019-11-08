@@ -1,4 +1,5 @@
 # test
 learning git commands
 added p1.c file
-We are into duplicate branch now
+We are in master
+We are into duplicate branch now (we have merged)
